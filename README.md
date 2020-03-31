@@ -1,7 +1,7 @@
 # umfood-mock-data
 
-Sample dataset from Google Local Reviews
-- https://cseweb.ucsd.edu/~jmcauley/datasets.html
+Sample dataset from Google Local Reviews (simpleJson in Python)
+- https://cseweb.ucsd.edu/~jmcauley/datasets.html 
 
 How to
 - Create a repository on GitHub (<your-username>/<your-repo>)

@@ -1,0 +1,76 @@
+[
+    {
+        "name": "Diamond Valley Lake Marina",
+        "price": null,
+        "address": [
+            "2615 Angler Ave",
+            "Hemet, CA 92545"
+        ],
+        "hours": [
+            [
+                "Monday",
+                [
+                    [
+                        "6:30 am--4:15 pm"
+                    ]
+                ]
+            ],
+            [
+                "Tuesday",
+                [
+                    [
+                        "6:30 am--4:15 pm"
+                    ]
+                ]
+            ],
+            [
+                "Wednesday",
+                [
+                    [
+                        "6:30 am--4:15 pm"
+                    ]
+                ],
+                1
+            ],
+            [
+                "Thursday",
+                [
+                    [
+                        "6:30 am--4:15 pm"
+                    ]
+                ]
+            ],
+            [
+                "Friday",
+                [
+                    [
+                        "6:30 am--4:15 pm"
+                    ]
+                ]
+            ],
+            [
+                "Saturday",
+                [
+                    [
+                        "6:30 am--4:15 pm"
+                    ]
+                ]
+            ],
+            [
+                "Sunday",
+                [
+                    [
+                        "6:30 am--4:15 pm"
+                    ]
+                ]
+            ]
+        ],
+        "phone": "(951) 926-7201",
+        "closed": false,
+        "gPlusPlaceId": "104699454385822125632",
+        "gps": [
+            33.703804,
+            -117.003209
+        ]
+    }
+]

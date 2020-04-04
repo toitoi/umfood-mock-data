@@ -1,0 +1,12 @@
+{
+  "properties" : {
+    "rating" : {"type" : "text"},
+    "reviewerName" : {"type" : "text"},
+    "reviewText" : {"type" : "text"},
+    "reviewTime" : {"type" : "text"},
+    "unixReviewTime" : {"type" : "text"},
+    "categories" : {"type" : "text"},
+    "gPlusPlaceId" : {"type" : "text"},
+    "gPlusUserId" : {"type" : "text"}
+  }
+}

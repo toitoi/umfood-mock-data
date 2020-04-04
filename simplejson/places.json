@@ -1,0 +1,1191 @@
+[
+    {
+        "address": [
+            "2615 Angler Ave",
+            "Hemet, CA 92545"
+        ],
+        "closed": false,
+        "gPlusPlaceId": "104699454385822125632",
+        "gps": [
+            33.703804,
+            -117.003209
+        ],
+        "hours": [
+            [
+                "Monday",
+                [
+                    [
+                        "6:30 am--4:15 pm"
+                    ]
+                ]
+            ],
+            [
+                "Tuesday",
+                [
+                    [
+                        "6:30 am--4:15 pm"
+                    ]
+                ]
+            ],
+            [
+                "Wednesday",
+                [
+                    [
+                        "6:30 am--4:15 pm"
+                    ]
+                ],
+                1
+            ],
+            [
+                "Thursday",
+                [
+                    [
+                        "6:30 am--4:15 pm"
+                    ]
+                ]
+            ],
+            [
+                "Friday",
+                [
+                    [
+                        "6:30 am--4:15 pm"
+                    ]
+                ]
+            ],
+            [
+                "Saturday",
+                [
+                    [
+                        "6:30 am--4:15 pm"
+                    ]
+                ]
+            ],
+            [
+                "Sunday",
+                [
+                    [
+                        "6:30 am--4:15 pm"
+                    ]
+                ]
+            ]
+        ],
+        "name": "Diamond Valley Lake Marina",
+        "phone": "(951) 926-7201",
+        "price": null
+    },
+    {
+        "address": [
+            "Parole",
+            "Annapolis, MD"
+        ],
+        "closed": false,
+        "gPlusPlaceId": "103054478949000078829",
+        "gps": [
+            38.979759,
+            -76.547538
+        ],
+        "hours": null,
+        "name": "Blue Ribbon Cleaners",
+        "phone": "(410) 266-6123",
+        "price": null
+    },
+    {
+        "address": [
+            "\u0443\u043b. \u0422\u0443\u0442\u0430\u0435\u0432\u0430, 1",
+            "Nazran, Ingushetia, Russia",
+            "366720"
+        ],
+        "closed": false,
+        "gPlusPlaceId": "109810290098030327104",
+        "gps": [
+            43.22776,
+            44.762726
+        ],
+        "hours": [
+            [
+                "Monday",
+                [
+                    [
+                        "9:30 am--9:00 pm"
+                    ]
+                ]
+            ],
+            [
+                "Tuesday",
+                [
+                    [
+                        "9:30 am--9:00 pm"
+                    ]
+                ]
+            ],
+            [
+                "Wednesday",
+                [
+                    [
+                        "9:30 am--9:00 pm"
+                    ]
+                ],
+                1
+            ],
+            [
+                "Thursday",
+                [
+                    [
+                        "9:30 am--9:00 pm"
+                    ]
+                ]
+            ],
+            [
+                "Friday",
+                [
+                    [
+                        "9:30 am--9:00 pm"
+                    ]
+                ]
+            ],
+            [
+                "Saturday",
+                [
+                    [
+                        "9:30 am--9:00 pm"
+                    ]
+                ]
+            ],
+            [
+                "Sunday",
+                [
+                    [
+                        "9:30 am--9:00 pm"
+                    ]
+                ]
+            ]
+        ],
+        "name": "Portofino",
+        "phone": "8 (963) 173-38-38",
+        "price": null
+    },
+    {
+        "address": [
+            "5322 W 26th St",
+            "Sioux Falls, SD 57106"
+        ],
+        "closed": false,
+        "gPlusPlaceId": "100327153115986850675",
+        "gps": [
+            43.529494,
+            -96.792244
+        ],
+        "hours": [
+            [
+                "Monday",
+                [
+                    [
+                        "11:00 am--10:00 pm"
+                    ]
+                ]
+            ],
+            [
+                "Tuesday",
+                [
+                    [
+                        "11:00 am--10:00 pm"
+                    ]
+                ],
+                1
+            ],
+            [
+                "Wednesday",
+                [
+                    [
+                        "11:00 am--10:00 pm"
+                    ]
+                ]
+            ],
+            [
+                "Thursday",
+                [
+                    [
+                        "11:00 am--10:00 pm"
+                    ]
+                ]
+            ],
+            [
+                "Friday",
+                [
+                    [
+                        "11:00 am--1:00 am"
+                    ]
+                ]
+            ],
+            [
+                "Saturday",
+                [
+                    [
+                        "11:00 am--1:00 am"
+                    ]
+                ]
+            ],
+            [
+                "Sunday",
+                [
+                    [
+                        "11:00 am--10:00 pm"
+                    ]
+                ]
+            ]
+        ],
+        "name": "T C's Referee Sports Bar",
+        "phone": "(605) 361-2208",
+        "price": "$$"
+    },
+    {
+        "address": [
+            "Jl. Angkatan 45",
+            "Kompleks Palembang Square",
+            "South Sumatra 30137, Indonesia"
+        ],
+        "closed": false,
+        "gPlusPlaceId": "103368487323937936043",
+        "gps": [
+            -2.976256,
+            104.742662
+        ],
+        "hours": [
+            [
+                "Monday",
+                [
+                    [
+                        "8:00 am--9:00 pm"
+                    ]
+                ]
+            ],
+            [
+                "Tuesday",
+                [
+                    [
+                        "8:00 am--9:00 pm"
+                    ]
+                ]
+            ],
+            [
+                "Wednesday",
+                [
+                    [
+                        "8:00 am--9:00 pm"
+                    ]
+                ],
+                1
+            ],
+            [
+                "Thursday",
+                [
+                    [
+                        "8:00 am--9:00 pm"
+                    ]
+                ]
+            ],
+            [
+                "Friday",
+                [
+                    [
+                        "8:00 am--9:00 pm"
+                    ]
+                ]
+            ],
+            [
+                "Saturday",
+                [
+                    [
+                        "8:00 am--9:00 pm"
+                    ]
+                ]
+            ],
+            [
+                "Sunday",
+                [
+                    [
+                        "8:00 am--9:00 pm"
+                    ]
+                ]
+            ]
+        ],
+        "name": "Carrefour - Palembang Square",
+        "phone": "(0711) 359918",
+        "price": null
+    },
+    {
+        "address": [
+            "Stuttgarter Stra\u00dfe 44",
+            "75378 Bad Liebenzell",
+            "Germany"
+        ],
+        "closed": false,
+        "gPlusPlaceId": "103903929544828620241",
+        "gps": [
+            48.767817,
+            8.75612
+        ],
+        "hours": null,
+        "name": "Pizzeria Montana",
+        "phone": "07052 933486",
+        "price": null
+    },
+    {
+        "address": [
+            "2033 W Oklahoma Ave",
+            "Ulysses, KS 67880"
+        ],
+        "closed": false,
+        "gPlusPlaceId": "103848836623683146185",
+        "gps": [
+            37.576427,
+            -101.386182
+        ],
+        "hours": null,
+        "name": "Single Tree Inn",
+        "phone": "(620) 356-1500",
+        "price": null
+    },
+    {
+        "address": [
+            "Jalan Demak",
+            "Petra Jaya",
+            "Kuching, Sarawak, Malaysia"
+        ],
+        "closed": false,
+        "gPlusPlaceId": "114537653478141145113",
+        "gps": [
+            1.572255,
+            110.362958
+        ],
+        "hours": null,
+        "name": "Sekolah Menengah Kebangsaan Tun Abang Haji Openg",
+        "phone": null,
+        "price": null
+    },
+    {
+        "address": [
+            "208 Yumotochaya",
+            "Hakone, Ashigarashimo District, Kanagawa 250-0312",
+            "Japan"
+        ],
+        "closed": false,
+        "gPlusPlaceId": "100062881646354125752",
+        "gps": [
+            35.224978,
+            139.088382
+        ],
+        "hours": null,
+        "name": "\u5929\u5c71\u6e6f\u6cbb\u90f7",
+        "phone": "0460-86-4126",
+        "price": null
+    },
+    {
+        "address": [
+            "17960 NW Evergreen Pkwy",
+            "Beaverton, OR 97006"
+        ],
+        "closed": false,
+        "gPlusPlaceId": "118222137795476771294",
+        "gps": [
+            45.535176,
+            -122.862242
+        ],
+        "hours": [
+            [
+                "Monday",
+                [
+                    [
+                        "11:00 am--1:00 am"
+                    ]
+                ]
+            ],
+            [
+                "Tuesday",
+                [
+                    [
+                        "11:00 am--1:00 am"
+                    ]
+                ]
+            ],
+            [
+                "Wednesday",
+                [
+                    [
+                        "11:00 am--1:00 am"
+                    ]
+                ]
+            ],
+            [
+                "Thursday",
+                [
+                    [
+                        "11:00 am--1:00 am"
+                    ]
+                ],
+                1
+            ],
+            [
+                "Friday",
+                [
+                    [
+                        "11:00 am--1:00 am"
+                    ]
+                ]
+            ],
+            [
+                "Saturday",
+                [
+                    [
+                        "11:00 am--1:00 am"
+                    ]
+                ]
+            ],
+            [
+                "Sunday",
+                [
+                    [
+                        "11:00 am--1:00 am"
+                    ]
+                ]
+            ]
+        ],
+        "name": "Old Chicago",
+        "phone": "(503) 533-4650",
+        "price": "$$"
+    },
+    {
+        "address": [
+            "3718 Wilmington Pike",
+            "Dayton, OH 45429"
+        ],
+        "closed": false,
+        "gPlusPlaceId": "106432060150136868000",
+        "gps": [
+            39.692899,
+            -84.136173
+        ],
+        "hours": [
+            [
+                "Monday",
+                [
+                    [
+                        "11:00 am--10:00 pm"
+                    ]
+                ]
+            ],
+            [
+                "Tuesday",
+                [
+                    [
+                        "11:00 am--10:00 pm"
+                    ]
+                ]
+            ],
+            [
+                "Wednesday",
+                [
+                    [
+                        "11:00 am--10:00 pm"
+                    ]
+                ],
+                1
+            ],
+            [
+                "Thursday",
+                [
+                    [
+                        "11:00 am--10:00 pm"
+                    ]
+                ]
+            ],
+            [
+                "Friday",
+                [
+                    [
+                        "11:00 am--11:00 pm"
+                    ]
+                ]
+            ],
+            [
+                "Saturday",
+                [
+                    [
+                        "11:00 am--11:00 pm"
+                    ]
+                ]
+            ],
+            [
+                "Sunday",
+                [
+                    [
+                        "11:00 am--10:00 pm"
+                    ]
+                ]
+            ]
+        ],
+        "name": "China Cottage",
+        "phone": "(937) 294-4724",
+        "price": "$$"
+    },
+    {
+        "address": [
+            "1571 N US Highway 1",
+            "Ormond Beach, FL 32174"
+        ],
+        "closed": false,
+        "gPlusPlaceId": "111282238562509982741",
+        "gps": [
+            29.337011,
+            -81.128647
+        ],
+        "hours": null,
+        "name": "La Quinta Inn & Suites Ormond Beach/Daytona Beach",
+        "phone": "(386) 236-2031",
+        "price": null
+    },
+    {
+        "address": [
+            "626 Can Do Expy # 1 , Hazle, PA 18202"
+        ],
+        "closed": false,
+        "gPlusPlaceId": "104869934485244376571",
+        "gps": [
+            40.9908,
+            -76.0117
+        ],
+        "hours": null,
+        "name": "Dicola's Pizzeria",
+        "phone": "(570) 384-0520",
+        "price": null
+    },
+    {
+        "address": [
+            "242-1 Zaikoji",
+            "Hyuga, Miyazaki 883-0021",
+            "Japan"
+        ],
+        "closed": false,
+        "gPlusPlaceId": "107096337073237318840",
+        "gps": [
+            32.414204,
+            131.63109
+        ],
+        "hours": null,
+        "name": "\u304a\u98df\u4e8b\u306e\u5e97\u9577\u53cb\u30fb\u8ca1\u5149\u5bfa\u5e97",
+        "phone": "0982-53-6979",
+        "price": null
+    },
+    {
+        "address": [
+            "666 Brandon Town Ctr",
+            "Brandon Town Center",
+            "Brandon, FL 33511"
+        ],
+        "closed": false,
+        "gPlusPlaceId": "101043078960050199039",
+        "gps": [
+            27.926719,
+            -82.326991
+        ],
+        "hours": [
+            [
+                "Monday",
+                [
+                    [
+                        "10:00 am--9:00 pm"
+                    ]
+                ]
+            ],
+            [
+                "Tuesday",
+                [
+                    [
+                        "10:00 am--9:00 pm"
+                    ]
+                ]
+            ],
+            [
+                "Wednesday",
+                [
+                    [
+                        "10:00 am--9:00 pm"
+                    ]
+                ]
+            ],
+            [
+                "Thursday",
+                [
+                    [
+                        "10:00 am--9:00 pm"
+                    ]
+                ],
+                1
+            ],
+            [
+                "Friday",
+                [
+                    [
+                        "10:00 am--9:00 pm"
+                    ]
+                ]
+            ],
+            [
+                "Saturday",
+                [
+                    [
+                        "10:00 am--9:00 pm"
+                    ]
+                ]
+            ],
+            [
+                "Sunday",
+                [
+                    [
+                        "11:00 am--6:00 pm"
+                    ]
+                ]
+            ]
+        ],
+        "name": "Mastercuts",
+        "phone": "(813) 653-9008",
+        "price": null
+    },
+    {
+        "address": [
+            "14531 Ella Blvd",
+            "Houston, TX 77014"
+        ],
+        "closed": false,
+        "gPlusPlaceId": "111230142112807464303",
+        "gps": [
+            29.979443,
+            -95.439439
+        ],
+        "hours": [
+            [
+                "Monday",
+                [
+                    [
+                        "9:00 am--6:00 pm"
+                    ]
+                ]
+            ],
+            [
+                "Tuesday",
+                [
+                    [
+                        "9:00 am--6:00 pm"
+                    ]
+                ]
+            ],
+            [
+                "Wednesday",
+                [
+                    [
+                        "9:00 am--6:00 pm"
+                    ]
+                ],
+                1
+            ],
+            [
+                "Thursday",
+                [
+                    [
+                        "9:00 am--6:00 pm"
+                    ]
+                ]
+            ],
+            [
+                "Friday",
+                [
+                    [
+                        "9:00 am--6:00 pm"
+                    ]
+                ]
+            ],
+            [
+                "Saturday",
+                [
+                    [
+                        "10:00 am--5:00 pm"
+                    ]
+                ]
+            ],
+            [
+                "Sunday",
+                [
+                    [
+                        "1:00--5:00 pm"
+                    ]
+                ]
+            ]
+        ],
+        "name": "Polo Club Cranbrook",
+        "phone": "(281) 872-1222",
+        "price": null
+    },
+    {
+        "address": [
+            "Japan",
+            "\u3012250-0012 Kanagawa, Odawara, Honcho, \uff12\u4e01\u76ee1\u221230"
+        ],
+        "closed": false,
+        "gPlusPlaceId": "102351867462083324344",
+        "gps": [
+            35.251385,
+            139.159618
+        ],
+        "hours": [
+            [
+                "Monday",
+                [
+                    [
+                        "11:00 am--7:00 pm"
+                    ]
+                ]
+            ],
+            [
+                "Tuesday",
+                [
+                    [
+                        "11:00 am--7:00 pm"
+                    ]
+                ]
+            ],
+            [
+                "Wednesday",
+                [
+                    [
+                        "11:00 am--7:00 pm"
+                    ]
+                ],
+                1
+            ],
+            [
+                "Thursday",
+                [
+                    [
+                        "11:00 am--7:00 pm"
+                    ]
+                ]
+            ],
+            [
+                "Friday",
+                [
+                    [
+                        "11:00 am--7:00 pm"
+                    ]
+                ]
+            ],
+            [
+                "Saturday",
+                [
+                    [
+                        "11:00 am--7:00 pm"
+                    ]
+                ]
+            ],
+            [
+                "Sunday",
+                [
+                    [
+                        "11:00 am--7:00 pm"
+                    ]
+                ]
+            ]
+        ],
+        "name": "\u3060\u308b\u307e\u6599\u7406\u5e97",
+        "phone": "0465-22-4128",
+        "price": null
+    },
+    {
+        "address": [
+            "Survey No. 274/275/2, Bhosale Farm, Wakad-Hinjewadi Road, Hinjewadi",
+            "Dange Chowk Rd, Bhatewara Nagar, Hinjewadi Village, Hinjawadi",
+            "Pune, Maharashtra 411057, India"
+        ],
+        "closed": false,
+        "gPlusPlaceId": "115604558784949331949",
+        "gps": [
+            18.596771,
+            73.742188
+        ],
+        "hours": null,
+        "name": "Orritel Hotel",
+        "phone": "020 6654 4600",
+        "price": null
+    },
+    {
+        "address": [
+            "25 Yeoeuido-dong",
+            "Yeongdeungpo-gu, Seoul",
+            "South Korea"
+        ],
+        "closed": true,
+        "gPlusPlaceId": "100781305512646551142",
+        "gps": [
+            37.524039,
+            126.926004
+        ],
+        "hours": null,
+        "name": "\uae4c\uc0ac\ub85c\uae4c \uc5ec\uc758\ub3c4\uc810",
+        "phone": "02-780-8133",
+        "price": null
+    },
+    {
+        "address": [
+            "Tha Muang District",
+            "Kanchanaburi",
+            "Thailand"
+        ],
+        "closed": false,
+        "gPlusPlaceId": "104147185033261390592",
+        "gps": [
+            13.979946,
+            99.587241
+        ],
+        "hours": null,
+        "name": "Fly Now",
+        "phone": null,
+        "price": null
+    },
+    {
+        "address": [
+            "967 Explorer Cove",
+            "Altamonte Springs, FL 32701"
+        ],
+        "closed": false,
+        "gPlusPlaceId": "107457864393084725818",
+        "gps": [
+            28.681282,
+            -81.35249
+        ],
+        "hours": null,
+        "name": "Seminole Metal Finishing Inc.",
+        "phone": "(407) 332-8949",
+        "price": null
+    },
+    {
+        "address": [
+            "8500 Burlingame Ave SW",
+            "Byron Center, MI 49315"
+        ],
+        "closed": false,
+        "gPlusPlaceId": "105455649021131746775",
+        "gps": [
+            42.810092,
+            -85.702919
+        ],
+        "hours": null,
+        "name": "Byron Center High School",
+        "phone": "(616) 878-6600",
+        "price": null
+    },
+    {
+        "address": [
+            "R. Prof Eug\u00eania R Perito, 54",
+            "Tubar\u00e3o - SC",
+            "88705-370, Brazil"
+        ],
+        "closed": false,
+        "gPlusPlaceId": "115937906176039685660",
+        "gps": [
+            -28.471037,
+            -48.990852
+        ],
+        "hours": null,
+        "name": "Garras Auto Vidros",
+        "phone": "(48) 3626-6578",
+        "price": null
+    },
+    {
+        "address": [
+            "3607 Outdoor Sportsman Pl",
+            "Kodak, TN 37764"
+        ],
+        "closed": false,
+        "gPlusPlaceId": "100184392614713668281",
+        "gps": [
+            35.98598,
+            -83.610598
+        ],
+        "hours": null,
+        "name": "Smokey Mountain Wings",
+        "phone": "(865) 465-3121",
+        "price": "$$"
+    },
+    {
+        "address": [
+            "San Antonio, TX"
+        ],
+        "closed": false,
+        "gPlusPlaceId": "107059752736783728413",
+        "gps": [
+            29.517006,
+            -98.436528
+        ],
+        "hours": [
+            [
+                "Monday",
+                [
+                    [
+                        "8:00 am--8:00 pm"
+                    ]
+                ]
+            ],
+            [
+                "Tuesday",
+                [
+                    [
+                        "8:00 am--8:00 pm"
+                    ]
+                ]
+            ],
+            [
+                "Wednesday",
+                [
+                    [
+                        "8:00 am--8:00 pm"
+                    ]
+                ]
+            ],
+            [
+                "Thursday",
+                [
+                    [
+                        "8:00 am--8:00 pm"
+                    ]
+                ],
+                1
+            ],
+            [
+                "Friday",
+                [
+                    [
+                        "8:00 am--8:00 pm"
+                    ]
+                ]
+            ],
+            [
+                "Saturday",
+                [
+                    [
+                        "8:00 am--8:00 pm"
+                    ]
+                ]
+            ],
+            [
+                "Sunday",
+                [
+                    [
+                        "8:00 am--8:00 pm"
+                    ]
+                ]
+            ]
+        ],
+        "name": "San Antonio Moving Company",
+        "phone": "(210) 228-4062",
+        "price": null
+    },
+    {
+        "address": [
+            "Bredabaan 1053/B2",
+            "2930 Brasschaat",
+            "Belgium"
+        ],
+        "closed": false,
+        "gPlusPlaceId": "105176407214255949518",
+        "gps": [
+            51.323673,
+            4.520526
+        ],
+        "hours": null,
+        "name": "Lara's Place",
+        "phone": "03 663 76 78",
+        "price": null
+    },
+    {
+        "address": [
+            "8-3 Benbun",
+            "Iizuka, Fukuoka 820-0088",
+            "Japan"
+        ],
+        "closed": false,
+        "gPlusPlaceId": "101218790935826663894",
+        "gps": [
+            33.621265,
+            130.670522
+        ],
+        "hours": null,
+        "name": "Muten Kura Sushi Iizuka",
+        "phone": "0948-26-2610",
+        "price": null
+    },
+    {
+        "address": [
+            "Amstel 202",
+            "1017 AH Amsterdam",
+            "Netherlands"
+        ],
+        "closed": false,
+        "gPlusPlaceId": "110421660062903864339",
+        "gps": [
+            52.366119,
+            4.900194
+        ],
+        "hours": [
+            [
+                "Monday",
+                [
+                    [
+                        "11:00 am--1:00 am"
+                    ]
+                ]
+            ],
+            [
+                "Tuesday",
+                [
+                    [
+                        "11:00 am--1:00 am"
+                    ]
+                ]
+            ],
+            [
+                "Wednesday",
+                [
+                    [
+                        "11:00 am--1:00 am"
+                    ]
+                ],
+                1
+            ],
+            [
+                "Thursday",
+                [
+                    [
+                        "11:00 am--1:00 am"
+                    ]
+                ]
+            ],
+            [
+                "Friday",
+                [
+                    [
+                        "11:00 am--3:00 am"
+                    ]
+                ]
+            ],
+            [
+                "Saturday",
+                [
+                    [
+                        "11:00 am--3:00 am"
+                    ]
+                ]
+            ],
+            [
+                "Sunday",
+                [
+                    [
+                        "11:00 am--1:00 am"
+                    ]
+                ]
+            ]
+        ],
+        "name": "Caf\u00e9 Langereis",
+        "phone": "020 785 0641",
+        "price": null
+    },
+    {
+        "address": [
+            "8825 Man Of War Dr",
+            "Waxhaw, NC 28173"
+        ],
+        "closed": false,
+        "gPlusPlaceId": "110904357941128849034",
+        "gps": [
+            34.998894,
+            -80.797123
+        ],
+        "hours": null,
+        "name": "Juliet Photography",
+        "phone": "(704) 243-3226",
+        "price": null
+    },
+    {
+        "address": [
+            "1 McLachlan St",
+            "Maclean NSW 2463",
+            "Australia"
+        ],
+        "closed": false,
+        "gPlusPlaceId": "106077875776555854791",
+        "gps": [
+            -29.455973,
+            153.199185
+        ],
+        "hours": [
+            [
+                "Monday",
+                [
+                    [
+                        "9:00 am--10:00 pm"
+                    ]
+                ]
+            ],
+            [
+                "Tuesday",
+                [
+                    [
+                        "9:00 am--10:00 pm"
+                    ]
+                ]
+            ],
+            [
+                "Wednesday",
+                [
+                    [
+                        "9:00 am--11:00 pm"
+                    ]
+                ],
+                1
+            ],
+            [
+                "Thursday",
+                [
+                    [
+                        "9:00 am--11:00 pm"
+                    ]
+                ]
+            ],
+            [
+                "Friday",
+                [
+                    [
+                        "9:00 am--11:30 pm"
+                    ]
+                ]
+            ],
+            [
+                "Saturday",
+                [
+                    [
+                        "9:00 am--11:00 pm"
+                    ]
+                ]
+            ],
+            [
+                "Sunday",
+                [
+                    [
+                        "9:00 am--9:30 pm"
+                    ]
+                ]
+            ]
+        ],
+        "name": "TAB Maclean & District Bowling Club",
+        "phone": "(02) 6645 3711",
+        "price": null
+    }
+]

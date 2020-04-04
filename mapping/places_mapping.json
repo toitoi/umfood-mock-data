@@ -1,0 +1,11 @@
+{
+  "properties" : {
+    "address" : {"type" : "text"},
+    "closed" : {"type" : "boolean"},
+    "gPlusPlaceId" : {"type" : "text"},
+    "gps" : {"type" : "float"},
+    "hours" : {"type" : "text"},
+    "name" : {"type" : "text"},
+    "phone" : {"type" : "text"}
+  }
+}

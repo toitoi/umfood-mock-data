@@ -1,0 +1,11 @@
+{
+  "properties" : {
+    "currentPlace" : {"type" : "text"},
+    "education" : {"type" : "text"},
+    "gPlusUserId" : {"type" : "text"},
+    "jobs" : {"type" : "text"},
+    "previousPlaces" : {"type" : "text"},
+    "userName" : {"type" : "text"}
+  }
+}
+

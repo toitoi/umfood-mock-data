@@ -12,7 +12,7 @@ How to
 Get live data from datahub
 - https://datahub.io/docs/getting-started/getting-data
 
-To spin up ES in docker
+# To spin up ES in docker
 ```
 docker pull docker.elastic.co/elasticsearch/elasticsearch:7.6.2
 ```
@@ -29,7 +29,7 @@ curl -XPUT "localhost:9200/places/_mapping" -H "Content-Type: application/json" 
 ```
 repeat the steps for users and reviews.
 
-TODO : 
+# TODO : 
 - batch job to init the es
 - batch job to load data using Converter.py
 
